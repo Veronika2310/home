@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.AssemblyInfo.cs
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Новая папка\fgd\bin\Debug\net6.0\fgd.exe
+C:\Users\1\Desktop\Новая папка\fgd\bin\Debug\net6.0\fgd.deps.json
+C:\Users\1\Desktop\Новая папка\fgd\bin\Debug\net6.0\fgd.runtimeconfig.json
+C:\Users\1\Desktop\Новая папка\fgd\bin\Debug\net6.0\fgd.dll
+C:\Users\1\Desktop\Новая папка\fgd\bin\Debug\net6.0\fgd.pdb
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.dll
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\refint\fgd.dll
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.pdb
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\fgd.genruntimeconfig.cache
+C:\Users\1\Desktop\Новая папка\fgd\obj\Debug\net6.0\ref\fgd.dll

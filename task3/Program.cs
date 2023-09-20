@@ -2,7 +2,7 @@
 // [345, 897, 568, 234] -> 2
 
 Console.Write("Введите размер массива:");
-int size = int.Parse(Console.ReadLine());
+int size = 4;
 int[] numbers = new int[size];
 int count = 0;
 FillArrayRandomNumbers(numbers);
