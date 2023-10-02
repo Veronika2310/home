@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Новая папка\task101\bin\Debug\net6.0\task101.exe
+C:\Users\1\Desktop\Новая папка\task101\bin\Debug\net6.0\task101.deps.json
+C:\Users\1\Desktop\Новая папка\task101\bin\Debug\net6.0\task101.runtimeconfig.json
+C:\Users\1\Desktop\Новая папка\task101\bin\Debug\net6.0\task101.dll
+C:\Users\1\Desktop\Новая папка\task101\bin\Debug\net6.0\task101.pdb
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.AssemblyInfo.cs
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.dll
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\refint\task101.dll
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.pdb
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\task101.genruntimeconfig.cache
+C:\Users\1\Desktop\Новая папка\task101\obj\Debug\net6.0\ref\task101.dll
