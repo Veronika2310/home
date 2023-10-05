@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.AssemblyInfo.cs
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Новая папка\cerctification\bin\Debug\net6.0\cerctification.exe
+C:\Users\1\Desktop\Новая папка\cerctification\bin\Debug\net6.0\cerctification.deps.json
+C:\Users\1\Desktop\Новая папка\cerctification\bin\Debug\net6.0\cerctification.runtimeconfig.json
+C:\Users\1\Desktop\Новая папка\cerctification\bin\Debug\net6.0\cerctification.dll
+C:\Users\1\Desktop\Новая папка\cerctification\bin\Debug\net6.0\cerctification.pdb
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.dll
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\refint\cerctification.dll
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.pdb
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\cerctification.genruntimeconfig.cache
+C:\Users\1\Desktop\Новая папка\cerctification\obj\Debug\net6.0\ref\cerctification.dll
